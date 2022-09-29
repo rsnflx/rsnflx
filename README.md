@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rsnflx
-- 👀 I’m a medical doctor interested in storytelling with data.
-- 🌱 I’m currently learning data visualization in Excel. In the future I want to learn Tableau, R, SQL, D3.js and Python.
-- 💞️ I’m looking to collaborate on visualization of health data.
+- 👀 I’m a medical doctor interested in statistics and data visualization.
+- 🌱 I’m currently learning advanced features of Excel.
+- 💞️ I’m looking to make statistics more tangible for health care professionals and patients.
 - 📫 You can reach me at rosenfelix (at) gmail.com
 
 <!---
